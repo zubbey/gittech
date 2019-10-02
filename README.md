@@ -1,1 +1,1 @@
-# This app basically educates users on the foundation for programmer.
+# This app basically educates users on the foundation for programming.
