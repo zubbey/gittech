@@ -18,6 +18,12 @@
     echo "<pre>";
     echo var_dump($cusdata);
     echo "</pre>";
+
+    //IF I DO THIS
+    $cusdata->data->first_name;
+    //i get the firstname ..chibike
+
+    //but i need to get the subscription_code
   }
 
   if (curl_errno($ch)) {
